@@ -1,0 +1,19 @@
+m 00:00:00:00:00
+g
+r
+c z
+g
+r
+k m a
+g
+r
+t 00:00:00:00:00|00:00:00:00:01
+g
+r
+t 05:79:96:01:68|05:79:96:01:68
+g
+r
+s
+k Sensorium Fortuneteller gyrations sinalagmatic retruded Saguaro
+g
+q

@@ -1,0 +1,11 @@
+g
+r
+a 20
+a 10
+d 1
+b 1
+e 1
+z po
+z p o
+p
+q

@@ -1,0 +1,19 @@
+m 00:00:00:00:01
+g
+k ui
+r
+a 1
+b 3
+c ui
+r
+k word
+c word
+k uI uI Ui nOt
+t 00:00:00:00:01|00:20:30:00:01
+g
+r
+e 5
+p
+s
+p
+q
